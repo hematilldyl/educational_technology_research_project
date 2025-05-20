@@ -1,1 +1,2 @@
-# educational_technology_research_project
+# edtech
+Research Project

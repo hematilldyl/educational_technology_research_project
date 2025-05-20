@@ -1,0 +1,29 @@
+response,age,birth_country,current_country,language,degree,current_industry,job_title,industry_switch,desired_career_title,num_omscs_taken,courses_taken,non_omscs_courses,course_same_time,email
+1,30 - 39,china,singapore,english,Bachelor's Degree,Technology,software_engineer,Technology,NA,4,"CS6350,CS6200,CS6601",2-3,1,na
+2,30 - 39,USA,USA,Hindi,Bachelor's Degree,Technology,software_engineer,Technology,NA,1,CS6601,2-3,1,NA
+3,18 - 29,China,China,Chinese,Master's Degree,Other,graduated student,Technology,CEO,1,CS6460,1,2,gliu359@gatech.edu
+4,30 - 39,india,usa,hindi,Bachelor's Degree,Engineering,manager,Engineering,Director,4,"CS6750,CS6460",10,0,na
+5,18 - 29,America,America,English,Bachelor's Degree,Engineering,Data Analyst,Engineering,NA,2,"CS6750,C6300",2-3,1,NA
+6,50 - 64,America,America,English,Bachelor's Degree,Other,Automotive Technician,Finance,NA,2,"CS6400,CS6250",10,0,Jpannell6@gatech.edu
+7,30 - 39,China,USA,Chinese,Master's Degree,Education,Information Systems Manager,Engineering,AI Software Developer,8,CS6515,8-9,1,none
+8,40 - 49,USA,USA,english,Bachelor's Degree,Technology,AI & Machine Learning Engineer,Education,NA,8,"CS6200,CS6601,CS6340,CS6475,CS7280,CS7638,CS7646,CS7639",10,1,chrismcbride@gatech.edu
+9,18 - 29,United States,United States,English,Bachelor's Degree,Technology,software_engineer,Technology,Software Architect,9,"CS6262,CS6263,CS6250,CS6300,CS6200,CS6340,CS6400,CS6310,CS6440",10,1,sanderson313@gatech.edu
+10,18 - 29,USA,USA,Vietnamese,Bachelor's Degree,Engineering,Senior,No,Manager,1,CS6460,10,0,NA
+11,18 - 29,China,China,Chinese,Master's Degree,Engineering,Student,Technology,Digital IC Verification Engineer,1,CS6460,1,0,NO
+12,40 - 49,United States,United States,English,Bachelor's Degree,Education,Assistant Professor in Residence,No,NA,6,"CS6460,CS6603,CS6300,CS6400,CS6750,CS6440,MGMT6311",2-3,0,bdaley7@gatech.edu
+13,30 - 39,China,USA,Chinese,Master's Degree,Engineering,Data Analyst,Technology,SDE/DS,9,"ISYE6501,CSE6040,CS6601,CSE6242,CS7646,CS6400,CS6300,CS6750,CS7637,CS6460",2-3,0,wenhao.wu@gatech.edu
+14,18 - 29,India,United States,Hindi,Bachelor's Degree,Technology,Instructional Designer,Technology,Technical Writer,1,CS7406,6-7,1,rbharati3@gtech.edu
+15,30 - 39,CHINA,US,Chinese,Doctoral Degree,Engineering,Scientist,Healthcare,Farmer,7,"CS6300,CS6310",2-3,1,NA
+16,18 - 29,India,India,Both Hindi and English,Bachelor's Degree,Technology,software_engineer,Technology,NA,7,"CS6515,CS6603,CS7646,CS6242,CS7638,CS7637,CS6750",4-5,2,N/A
+17,18 - 29,America,America,English,Bachelor's Degree,Technology,Business Owner,Consulting,Consultant,1,CS6750 ,10,0,moosboos1@gmail.com
+19,30 - 39,USA,TLV,English,Bachelor's Degree,Technology,CEO,Education,Founder/CEO,9,CS6460;CS6601;CS6750;MGT6311;CS8001;CS6300;CS6457;VIP6603;CS8001,4-5,0,Id rather not
+20,18 - 29,usa,usa,english,Bachelor's Degree,Engineering,ios developer,Education,NA,7,"CS6300,CS6601,CS7637,CS6750,CS7632,CS6150,INTA6450",4-5,2,cchin88@gatech.edu
+21,18 - 29,Pakistan,United States,Urdu,Bachelor's Degree,Finance,software_engineer,No,"In future, would like to do part time teaching",5,"CS6300,CS6310,CS6250,CD6440,CD6400",1,0,sheryar.shah@gatech.edu
+22,18 - 29,China,China,Chinese,Bachelor's Degree,Engineering,Engineer,Engineering,NA,2,"CS7646,CS7638",2-3,2,xlin350@gatech.edu
+23,40 - 49,USA,Canada,English,Master's Degree,Education,Student,Technology,Software engineer,1,CS6603,10,1,richjohnson@gatech.edu
+24,30 - 39,China,US,Mandarin,Master's Degree,Technology,Student,Engineering,NA,4,CS6460,4-5,1,nope
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,, ,,,,,
